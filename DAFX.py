@@ -47,7 +47,6 @@ def apply_2ndorder_Filter_Generic(x,a,b):
     x : Input signal
     a, b : Filter coefficients 
     
-
     Returns
     -------
     y : Output signal
